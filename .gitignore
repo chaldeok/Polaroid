@@ -11,6 +11,9 @@ Thumbs.db
 *.log*
 node_modules/
 package-lock.json/
+gulpfile.js
+package-lock.json
+package.json
 
 # Папка с собранными файлами проекта
 /build/*
