@@ -16,8 +16,4 @@ package-lock.json
 package.json
 
 # Папка с собранными файлами проекта
-/build/*
-!/build/css/main.css
-!/build/js/main.js
-!/build/index.html
 /src/*
